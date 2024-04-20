@@ -5,13 +5,13 @@
  "title":" Update available",
  "description":"iLauncher v2.0
 
-Base: 2.0
+Base: 2.0.5
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Nuevo Systema de Actualización 
+Actualizacion disponible
 
- Actualización disponible ",
+ Actualización de ilauncher disponible",
 "download":"Teste"
 }
   ]
