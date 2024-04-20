@@ -1,5 +1,5 @@
 {
-  "·𝓤𝓷𝓭𝓮𝓯𝓲𝓷𝓮𝓭 ·": [
+  "undefined_dvz": [
     {
  "version":"2.0",
  "title":" Update available",
