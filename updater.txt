@@ -1,18 +1,18 @@
 {
   "undefined_updates": [
     {
- "version":"2.0.5",
+ "version":"2.0",
  "title":" Update available",
  "description":"iLauncher iOS 17
 
-Base: 2.0.5
+Base: 2.0
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 Actualizacion disponible
 
  Actualización de ilauncher disponible",
-"download":"Teste"
+"download":"https://t.me/Undefined_Dvz_Store"
 }
   ]
 }
