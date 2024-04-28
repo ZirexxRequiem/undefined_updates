@@ -1,7 +1,7 @@
 {
   "undefined_updates": [
     {
- "version":"2.5",
+ "version":"New version available",
  "title":" Update available",
  "description":"iLauncher iOS 17
 
