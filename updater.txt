@@ -3,16 +3,16 @@
     {
  "version":"New version available",
  "title":" Update available",
- "description":"iLauncher iOS 17
+ "description":"iLauncher iOS 17.1
 
-Base: 2.5.120
+Base: 2.6.0
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 Actualizacion disponible
 
  Actualización de ilauncher disponible",
-"download":"https://devuploads.com/y3vzbxow79qj"
+"download":"https://devuploads.com/6e7s165t27ht"
 }
   ]
 }
