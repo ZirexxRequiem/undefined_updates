@@ -1,18 +1,16 @@
 {
   "undefined_updates": [
     {
- "version":"New version available",
+ "version":"3.0",
  "title":" Update available",
- "description":"iLauncher iOS 17.1
+ "description":"iLauncher iOS 17.4
 
-Base: 2.6.0
-
+Base: 3.0
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
 Actualizacion disponible
 
  Actualización de ilauncher disponible",
-"download":"https://devuploads.com/6e7s165t27ht"
+"download":"https://devuploads.com/hsvdce3ow5tv"
 }
   ]
 }
